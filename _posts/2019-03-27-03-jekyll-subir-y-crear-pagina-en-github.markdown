@@ -20,16 +20,18 @@ cd <ruta>/<nombreDelProyecto>
 ```
 En mi caso es /home/karu/unPutoProgramador
 
+editamos \_config.yml y en `baseurl` ponemos `<nombreDelProyecto>` en mi caso unPutoProgramdor
+
 Hacemos que el proyecto sea con el control de versiones git:
-```
+```shell
 git init
 ```
 Ahora vamos a decirle a git dónde esta el repositorio de github que es lo que nos pone nada más crear el proyecto github
-```
+```shell
 git remote add origin https://github.com/Karucida/unPutoProgramador.git
 ```
 Añadimos todos los ficheros commiteamos (no sé si existe ese palabro) y pusheamos
-```
+```shell
 git add --all
 commit -m "comenzamos blog"
 git push origin master
