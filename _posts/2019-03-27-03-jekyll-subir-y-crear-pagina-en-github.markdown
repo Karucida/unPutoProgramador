@@ -10,9 +10,9 @@ tags: [Jekyll, Blog, Montar, Github, Español]
 
 ### Crear git
 Dentro de nuestro git vamos a new
-![Crear página en github](/assets/img/03/2019-03-27creargit1.png)
+![Crear página en github]({{ site.url }}{{site.baseurl}}/assets/img/03/2019-03-27creargit1.png)
 Una vez rellenamos la configuración inicial
-![Crear página en github]({{site.baseurl}}/assets/img/03/2019-03-27creargit2.png)
+![Crear página en github]({{ site.url }}/{{site.baseurl}}/assets/img/03/2019-03-27creargit2.png)
 
 Nos vamos a nuestra maquina donde tenemos el blog
 ```
