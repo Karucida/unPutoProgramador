@@ -12,7 +12,7 @@ tags: [Jekyll, Blog, Montar, Github, Español]
 Dentro de nuestro git vamos a new
 ![Crear página en github](/assets/img/03/2019-03-27creargit1.png)
 Una vez rellenamos la configuración inicial
-![Crear página en github]({{site.baseurl}}/assetsimg/03/2019-03-27creargit2.png)
+![Crear página en github]({{site.baseurl}}/assets/img/03/2019-03-27creargit2.png)
 
 Nos vamos a nuestra maquina donde tenemos el blog
 ```
@@ -49,3 +49,6 @@ Ya tenemos nuestra página subida!!!
 
 PD:os quiero
 
+{{site.baseurl}}
+
+{{site.url}}
