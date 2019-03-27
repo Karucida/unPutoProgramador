@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Instalar Jekyll"
+title:  "#02 Jekyll - Puesta a punto"
 date: 2019-03-27 21:30
 categories: [Jekyll, Blog]
 tags: [Jekyll, Blog, Montar, Github, Español]
