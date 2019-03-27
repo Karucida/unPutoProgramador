@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Comenzamos!!!"
+date: 2019-03-27 20:46
+categories: [Jekyll, Blog]
+tags: [Jekyll, Blog, Montar, Github, Español]
+---
+
+# Hola Mundo!!!
+> Jajajaja usando hola mundo como todo el mundo pd: no - Haterino
+
+Voy a empezar un blog de programación, y como no se puede ser más posturetas va a ser en github y además no me voy a gastar un duro.
+
+## ¿Quién soy?
+Soy Carlos a.k.a [@karucida](https://github.com/Karucida) y soy un puto programador. La verdad que seguramente no os aporte nada, pero queda para mí :D .
+
+## ¿Por qué?
+Llevo 3 añitos en esto de la programación y como todos en este mundillo la amo y además la odio...Ese amor odio cuando tienes un problema que no sabes resolver y de repente encuentras la manera.
+```php
+I 'HATE' PROGRAMMING...
+I 'HATE' PROGRAMMING...
+I 'HATE' PROGRAMMING...
+//{IT WORKS}
+I 'LOVE <3' PROGRAMMING 
+```
+
+Pueden ser diferentes las razones.
+- Falta de base
+    - Esto lo sabe todo el mundo, cae de cajón y por eso nadie lo explica.
+- Se te ha ido la pinza
+    - Se te ocurre inventar la rueda cuadrada porque piensas que va a funcionar mejor que la redonda y la gente nunca lo hubiera hecho de esa manera.
+- Eres el ~~puto amo~~ imbécil
+    - Seamos sinceros, no somos el puto amo (yo al menos) y lo más probable es que seamos imbeciles, esto quiere decir que no nos da la patata para más. 
+
+Con esta pequeña declaración de intenciones doy por comenzado este "proyecto"...
+
+Comenzamos!!!
+
+PD:os quiero
+
