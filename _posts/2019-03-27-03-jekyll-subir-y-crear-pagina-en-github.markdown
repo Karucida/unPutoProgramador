@@ -12,7 +12,7 @@ tags: [Jekyll, Blog, Montar, Github, Español]
 Dentro de nuestro git vamos a new
 ![Crear página en github]({{ site.url }}{{site.baseurl}}/assets/img/03/2019-03-27creargit1.png)
 Una vez rellenamos la configuración inicial
-![Crear página en github]({{ site.url }}/{{site.baseurl}}/assets/img/03/2019-03-27creargit2.png)
+![Crear página en github]({{ site.url }}{{site.baseurl}}/assets/img/03/2019-03-27creargit2.png)
 
 Nos vamos a nuestra maquina donde tenemos el blog
 ```
@@ -39,7 +39,7 @@ git push origin master
 Ya lo tenemos subido!!
 
 Ahora vamos a decirle a github que queremos hacer ese repo vamos a `Settings` de repo y bajamos hasta encontrar `GitHub Pages`
-![Crear página en github]({{ site.url }}/assets/img/03/2019-03-27crearpagina.png)
+![Crear página en github]({{ site.url }}{{site.baseurl}}/assets/img/03/2019-03-27crearpagina.png)
 
 Donde pone `Source`>`None` yo voy a seleccionar la rama master `master branch`
 
@@ -48,7 +48,3 @@ Ya tenemos nuestra página subida!!!
 [https://karucida.github.io/unPutoProgramador/](https://karucida.github.io/unPutoProgramador/)
 
 PD:os quiero
-
-{{site.baseurl}}
-
-{{site.url}}
