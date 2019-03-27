@@ -17,7 +17,7 @@ title: Un puto programador
 description: >- # this means to ignore newlines until "baseurl:"
   Voy a aglutinar todas las hostias que me pego espero que me sirva de algo y también a vosotros.
 baseurl: "unPutoProgramador" # the subpath of your site, e.g. /blog
-url: "https://karucida.github.io/unPutoProgramador/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://karucida.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Karucida
 github_username:  Karucida
 
