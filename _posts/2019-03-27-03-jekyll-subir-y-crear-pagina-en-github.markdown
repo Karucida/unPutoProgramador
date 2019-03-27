@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#03 Jekyll - Subir y crear página en github"
-date: 2019-03-27 20:46
+date: 2019-03-27 22:46
 categories: [Jekyll, Blog]
 tags: [Jekyll, Blog, Montar, Github, Español]
 ---
@@ -14,7 +14,7 @@ Dentro de nuestro git vamos a new
 Una vez rellenamos la configuración inicial
 ![Crear página en github]({{ site.url }}{{site.baseurl}}/assets/img/03/2019-03-27creargit2.png)
 
-Nos vamos a nuestra maquina donde tenemos el blog
+Nos vamos a nuestra máquina donde tenemos el blog
 ```
 cd <ruta>/<nombreDelProyecto>
 ```
@@ -26,7 +26,7 @@ Hacemos que el proyecto sea con el control de versiones git:
 ```shell
 git init
 ```
-Ahora vamos a decirle a git dónde esta el repositorio de github que es lo que nos pone nada más crear el proyecto github
+Ahora vamos a decirle a git dónde está el repositorio de github que es lo que nos pone nada más crear el proyecto github
 ```shell
 git remote add origin https://github.com/Karucida/unPutoProgramador.git
 ```
@@ -48,3 +48,4 @@ Ya tenemos nuestra página subida!!!
 [https://karucida.github.io/unPutoProgramador/](https://karucida.github.io/unPutoProgramador/)
 
 PD:os quiero
+ 

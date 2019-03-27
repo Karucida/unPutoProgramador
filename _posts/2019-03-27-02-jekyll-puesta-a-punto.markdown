@@ -11,7 +11,7 @@ tags: [Jekyll, Blog, Montar, Github, Español]
 
 Bueno si no os ha quedado claro os miraís la web de [Jekyll](https://jekyllrb.com/)
 ## ¿Por qué?
-Llevaba tiempo con la idea de montar un blog para las 4 tonterías que voy aprendiendo y las 3 que he sé así que se me ocurrio montarlo en [github](https://github.com) con la opción que tienen para tener [páginas estáticas](https://pages.github.com/), iba a ser muy cutre... pero mucho a lo que pense: _A ver Karu, tu eres tonto pero alguien habrá tenido esa idea y se lo habrá currado_ [no busqué mucho](https://lmddgtfy.net/?q=create%20github%20blog) la verdad y me puse a instalarlo ya que me llamava la sencilled para montarlo, que use markdown.
+Llevaba tiempo con la idea de montar un blog para las 4 tonterías que voy aprendiendo y las 3 que sé así que se me ocurrió montarlo en [github](https://github.com) con la opción que tienen para tener [páginas estáticas](https://pages.github.com/), iba a ser muy cutre... pero mucho a lo que pensé: _A ver Karu, tu eres tonto pero alguien habrá tenido esa idea y se lo habrá currado_ [no busqué mucho](https://lmddgtfy.net/?q=create%20github%20blog) la verdad y me puse a instalarlo ya que me llamaba la sencillez para montarlo, que use markdown.
 
 ## Instalación
 Yo me lo he instalado en ~~ubuntu~~ linux mint
@@ -71,7 +71,7 @@ Y viendo las 4 cosas y pensando que a ser algo más fácil este es mi `history` 
 
 ***
 ***
-**YA PODEÍS HACERME CASO**
+**YA PODEIS HACERME CASO**
 
 Una vez instalado ya se puede crear el proyecto:
 ```
@@ -86,7 +86,7 @@ _la primera u es en minuscula porque no tengo clase._
 ###### badum tss...
 
 
-Ahora podremos acceder a nuestro entorno que esta en:
+Ahora podremos acceder a nuestro entorno que está en:
 - [http://localhost:4000](http://localhost:4000)
 
 Si no revisad lo que pone tras iniciar el servidor y fijaros en `server address:` :
@@ -103,7 +103,7 @@ Configuration file: /home/karu/<nombreDelProyecto>/_config.yml
 
 ```
 
-Cada vez que pongais por terminal y en la ruta, se regenerá el proyecto
+Cada vez que pongais por terminal y en la ruta, se regenera el proyecto
 ```shell
 Jekyll build
 ```
@@ -118,3 +118,6 @@ El siguiente post será de cómo subirlo a github :D
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 PD: os quiero
+
+
+
